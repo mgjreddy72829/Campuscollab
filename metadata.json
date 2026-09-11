@@ -1,0 +1,6 @@
+{
+  "name": "CampusCollab",
+  "description": "3D luxury academic collaboration & faculty mentorship network for campus ventures and student innovators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
